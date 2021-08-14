@@ -1,0 +1,164 @@
+﻿"iisexpress.exe" (CoreCLR: DefaultDomain). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Private.CoreLib.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Rocky.dll". Символы загружены.
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Runtime.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Server.IIS.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Hosting.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\netstandard.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Hosting.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Hosting.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Configuration.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.DependencyInjection.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.DependencyInjection.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Logging.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Collections.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.ComponentModel.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.IO.FileSystem.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Hosting.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Configuration.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Configuration.EnvironmentVariables.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Primitives.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Threading.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Linq.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Server.Kestrel.Core.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Server.Kestrel.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Runtime.InteropServices.RuntimeInformation.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Server.IISIntegration.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Configuration.CommandLine.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Mvc.Core.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Razor.Runtime.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.FileProviders.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.FileProviders.Physical.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Memory.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Configuration.FileExtensions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Configuration.Binder.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Configuration.Json.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Configuration.UserSecrets.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Runtime.InteropServices.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.IO.FileSystem.Watcher.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.ComponentModel.Primitives.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Collections.Concurrent.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.FileSystemGlobbing.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Threading.Overlapped.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\Microsoft.Win32.Primitives.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Text.Json.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Text.Encoding.Extensions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Numerics.Vectors.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Runtime.CompilerServices.Unsafe.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Options.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Logging.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Logging.EventLog.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Logging.Configuration.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Options.ConfigurationExtensions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Logging.Console.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Logging.Debug.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Logging.EventSource.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Diagnostics.Tracing.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Diagnostics.DiagnosticSource.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Http.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Http.Features.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Http.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Mvc.Razor.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Mvc.RazorPages.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Connections.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Net.Primitives.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.HostFiltering.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.HttpOverrides.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Routing.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.ObjectPool.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Routing.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.ObjectModel.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Authentication.Core.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Authentication.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Security.Claims.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Mvc.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Runtime.Loader.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Rocky.Views.dll". Символы загружены.
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Mvc.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Mvc.ApiExplorer.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Authorization.Policy.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Authorization.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Mvc.Cors.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Cors.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Mvc.DataAnnotations.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Mvc.ViewFeatures.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Linq.Expressions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Components.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.JSInterop.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.DataProtection.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.DataProtection.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Cryptography.Internal.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Antiforgery.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.WebEncoders.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Text.Encodings.Web.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Runtime.Intrinsics.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Razor.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Caching.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Caching.Memory.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Mvc.TagHelpers.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Localization.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Threading.ThreadPool.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Runtime.Extensions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Threading.Thread.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Console.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Threading.Tasks.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\System.Diagnostics.EventLog.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Collections.Specialized.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.ComponentModel.TypeConverter.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\Microsoft.Win32.Registry.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Xml.XDocument.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Private.Xml.Linq.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Private.Xml.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Security.Cryptography.Algorithms.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Text.RegularExpressions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Reflection.Emit.ILGeneration.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Reflection.Emit.Lightweight.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Reflection.Primitives.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Private.Uri.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Diagnostics.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.HttpsPolicy.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.StaticFiles.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Net.Http.Headers.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Collections.Immutable.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Security.Cryptography.Primitives.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Buffers.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.FileProviders.Composite.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Diagnostics.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Html.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.ComponentModel.Annotations.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Metadata.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\System.IO.Pipelines.dll". 
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Content root path: C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Security.Cryptography.X509Certificates.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "Anonymously Hosted DynamicMethods Assembly". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.WebUtilities.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Http.Extensions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Net.WebSockets.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Security.Principal.Windows.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Data.Common.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Transactions.Local.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Linq.Queryable.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Threading.Timer.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Resources.ResourceManager.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Xml.ReaderWriter.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Net.WebClient.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Text.Encoding.CodePages.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Diagnostics.Process.dll". 
+Программа "[4432] iisexpress.exe" завершилась с кодом -1 (0xffffffff).
