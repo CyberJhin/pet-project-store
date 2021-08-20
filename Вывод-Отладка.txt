@@ -139,21 +139,28 @@
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.ComponentModel.Annotations.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Metadata.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\System.IO.Pipelines.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Security.Cryptography.X509Certificates.dll". 
 Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
 Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
 Microsoft.Hosting.Lifetime: Information: Content root path: C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky
-"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Security.Cryptography.X509Certificates.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "Anonymously Hosted DynamicMethods Assembly". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.WebUtilities.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.AspNetCore.Http.Extensions.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Net.WebSockets.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Security.Principal.Windows.dll". 
+Поток 0x3040 завершился с кодом 0 (0x0).
+Поток 0x3690 завершился с кодом 0 (0x0).
+Поток 0x136c завершился с кодом 0 (0x0).
+Поток 0x26b4 завершился с кодом 0 (0x0).
+Поток 0x4a9c завершился с кодом 0 (0x0).
+Поток 0xd28 завершился с кодом 0 (0x0).
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Data.Common.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Transactions.Local.dll". 
-"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Linq.Queryable.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Net.NetworkInformation.dll". 
+"iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Threading.Timer.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Resources.ResourceManager.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Users\Пользователь\source\repos\UDEMY_PROJECT\Rocky\Rocky\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll". 
@@ -161,4 +168,4 @@ Microsoft.Hosting.Lifetime: Information: Content root path: C:\Users\Польз�
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Net.WebClient.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Text.Encoding.CodePages.dll". 
 "iisexpress.exe" (CoreCLR: clrhost). Загружено "C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\System.Diagnostics.Process.dll". 
-Программа "[4432] iisexpress.exe" завершилась с кодом -1 (0xffffffff).
+Программа "[1344] iisexpress.exe" завершилась с кодом -1 (0xffffffff).
